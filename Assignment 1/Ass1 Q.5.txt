@@ -1,0 +1,1 @@
+The Doctype is not an element or tag, it lets the browser know about the version of or standard of HTML or any other markup language that is being used in the document. Declaration of a Doctype.A DOCTYPE declaration appears at the top of a web page before all other elements.

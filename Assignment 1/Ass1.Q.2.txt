@@ -1,0 +1,2 @@
+Comments are used to explain the code, and may help when you edit the source code at a later date. Comments are ignored by browsers.
+we can use comment by selecting content CTRL+/.
